@@ -1,2 +1,2 @@
 # hello-world
-Guten tag!
+Guten tag! Here is some more text. It is not very useful.
